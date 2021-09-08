@@ -12,3 +12,5 @@ The license i'm using is the *MIT* license. Please [click here](https://github.c
 
 1. [Data Entry Analysis]()
 2. [Data Exploration]()
+
+![Data Management](https://images.app.goo.gl/eZvTJwQdHwrjPCi4A)
